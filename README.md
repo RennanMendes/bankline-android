@@ -41,4 +41,4 @@ Foram utilizadas as seguintes tecnologias:
 
 </br>
 
-<img src="./assets/img/Mobile.png" width="100%"/>
+<img src="./assets/img/bankline-mobile.png" width="100%"/>
